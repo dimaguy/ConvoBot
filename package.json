@@ -1,0 +1,12 @@
+{
+  "name": "ConvoBot",
+  "version": "1.0.0",
+  "description": "A Discord Bot that ignites conversations",
+  "main": "index.js",
+  "author": "Dimaguy",
+  "license": "GPL-3.0",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
